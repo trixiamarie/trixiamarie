@@ -1,4 +1,4 @@
-<h1 style="color:EB38F7;text-align:center;"> Trixia M. Lorenzana </h1>
+![Copy of Black Technology LinkedIn Banner](https://github.com/trixiamarie/trixiamarie/assets/148014095/aa1138f5-5b54-459c-9c14-cc9f17fcc1cb)
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=EB38F7&center=true&random=false&width=435&lines=Jr+Full+Stack+Developer+Student" alt="Typing SVG" /></a>
 
 
