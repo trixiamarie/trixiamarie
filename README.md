@@ -1,5 +1,5 @@
 <h1 style="color:EB38F7;text-align:center;"> Trixia M. Lorenzana </h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=EB38F7&center=true&random=false&width=435&lines=Full+Stack+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=EB38F7&center=true&random=false&width=435&lines=Jr+Full+Stack+Developer+Student" alt="Typing SVG" /></a>
 
 
 ### Hi there 👋
